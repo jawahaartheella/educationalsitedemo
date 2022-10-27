@@ -1,0 +1,180 @@
+.custom_nav {
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.custom_nav ul.dropdown-menu {
+    font-size: small;
+}
+
+.register-modal-divider {
+    height: 5px;
+    background: rgb(70, 61, 216);
+    background: linear-gradient(90deg, rgba(70, 61, 216, 1) 0%, rgba(243, 150, 52, 1) 18%, rgba(255, 46, 251, 1) 50%, rgba(96, 210, 57, 1) 80%, rgba(0, 212, 255, 1) 100%);
+}
+
+.main-banner{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/home-banner-image.jpg);
+    padding-top: 230px;
+    padding-bottom: 100px;
+    background-size: cover;
+}
+.main-banner-content{
+    color: white;
+}
+
+section.features {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: whitesmoke;
+}
+
+.feature-container {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.feature-container h2 {
+    margin-bottom: 5px;
+}
+.feature-container h3{
+    font-size: 1.2em;
+}
+
+.feature-container p{
+    font-size: 14px;
+}
+
+.online-courses, .classroom-courses, .testimonials{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.classroom-courses{
+    background-color: whitesmoke;
+}
+
+.online-courses-content, .classroom-courses-content{
+    text-align: center;
+}
+
+.online-courses-content h2, .classroom-courses-content h2, .testimonials-header-content h2{
+    font-size: 1.4em;
+}
+
+.online-courses-content p, .classroom-courses-content p, .testimonials-header-content p{
+    font-size: 14px;
+}
+
+.testimonials{
+    background-color: #ececec;
+}
+
+.classroom-courses-scrollable{
+    height: 450px;
+    overflow: scroll;
+}
+
+.online-course-card, .testimonials-header-content{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.online-course-card .card-title {
+    font-size: 1.4em;
+}
+
+.online-course-card .card-text {
+    font-size: 14px;
+}
+
+.sidebar-form .card-title{
+    font-size: 1.2em;
+}
+
+.sidebar-form .card-text{
+    font-size: 14px;
+}
+
+.classroom-courses-list{
+    font-size: small;
+    padding-top: 20px;
+}
+
+#testimonial-holder li .card{
+    background-color: #199699;
+    color: white;
+    text-align: center;
+}
+
+#testimonial-holder li .card img{
+    width: 60px;
+    padding-bottom: 15px;
+}
+
+#testimonial-holder li .card .star{
+    color: orange;
+    font-size: 14px;
+}
+
+#testimonial-holder li .card .card-title{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#testimonial-holder li .card .card-text{
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #212529;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+aside.footer-widget {
+    padding-bottom: 25px;
+}
+
+aside.footer-widget h5 {
+    font-size: 16px;
+}
+
+aside.footer-widget ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+aside.footer-widget ul li a {
+    text-decoration: none;
+    color: #aaaaaa;
+    font-size: 14px;
+    display: inline-flex;
+    margin-bottom: 5px;
+}
+
+address h2 {
+    font-size: 20px;
+}
+
+address p {
+    font-size: 14px;
+}
+
+address p a {
+    font-style: italic;
+    color: teal;
+}
+
+section.copy {
+    background-color: crimson;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+section.copy p{
+    margin: 0px;
+}

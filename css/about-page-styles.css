@@ -1,0 +1,196 @@
+/* Nav Styles */
+.custom_nav {
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.custom_nav ul.dropdown-menu {
+    font-size: small;
+}
+
+.register-modal-divider {
+    height: 5px;
+    background: rgb(70, 61, 216);
+    background: linear-gradient(90deg, rgba(70, 61, 216, 1) 0%, rgba(243, 150, 52, 1) 18%, rgba(255, 46, 251, 1) 50%, rgba(96, 210, 57, 1) 80%, rgba(0, 212, 255, 1) 100%);
+}
+
+/* Main Banner Styles */
+.main-banner{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(../images/home-banner-image.jpg);
+    padding-top: 330px;
+    padding-bottom: 260px;
+    background-size: cover;
+}
+
+.main-banner-content{
+    text-align: center;
+    color: white;
+}
+
+.main-banner-content h1{
+    line-height: 1.5em;
+}
+
+.main-banner-content p{
+    font-size: 20px;
+}
+
+/* About Page Introduction Styles */
+.about-page-introduction, .working-section, .more-about, .about-founder, .subscription{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.about-page-introduction{
+    background-color: #fafafa;
+}
+
+.introduction-content{
+    text-align: center;
+}
+
+.introduction-content p{
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.introduction-content span{
+    color: royalblue;
+}
+
+/* How It Works Section Styles */
+.working-section{
+    background-color: #ececec;
+}
+
+.working-section-process{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.working-section-content{
+    margin-right: 50px;
+    text-align: justify;
+}
+
+.working-section-img{
+    margin-left: 50px;
+    width: 500px;
+}
+
+.working-section-content p, .working-section-description p{
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+/* More About Styles */
+.more-about-content{
+    padding-top: 60px;
+}
+
+.more-about-content h3{
+    padding-top: 10px;
+}
+
+.more-about-content ul li{
+    font-size: 17px;
+}
+
+.more-about-content p{
+    font-size: 17px;
+}
+
+/* About Founder Styles */
+.about-founder{
+    text-align: center;
+    background-color: #fafafa;
+}
+
+.about-founder h2{
+    padding-top: 15px;
+    font-weight: 600;
+}
+
+.about-founder h3{
+    padding-top: 20px;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.about-founder h4{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.about-founder p{
+    padding-top: 18px;
+    padding-bottom: 0px;
+    text-align: justify;
+    font-size: 17px;
+}
+
+/* Subscritpion Styles */
+.subscription{
+    background-color: #f5f5f5;
+}
+
+.subscription .input-group{
+    padding-top: 35px;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #212529;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+aside.footer-widget {
+    padding-bottom: 25px;
+}
+
+aside.footer-widget h5 {
+    font-size: 16px;
+}
+
+aside.footer-widget ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+aside.footer-widget ul li a {
+    text-decoration: none;
+    color: #aaaaaa;
+    font-size: 14px;
+    display: inline-flex;
+    margin-bottom: 5px;
+}
+
+address h2 {
+    font-size: 20px;
+}
+
+address p {
+    font-size: 14px;
+}
+
+address p a {
+    font-style: italic;
+    color: teal;
+}
+
+section.copy {
+    background-color: crimson;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+section.copy p{
+    margin: 0px;
+}

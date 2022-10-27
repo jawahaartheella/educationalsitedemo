@@ -1,0 +1,131 @@
+/* Nav Styles */
+.custom_nav {
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.custom_nav ul.dropdown-menu {
+    font-size: small;
+}
+
+.register-modal-divider {
+    height: 5px;
+    background: rgb(70, 61, 216);
+    background: linear-gradient(90deg, rgba(70, 61, 216, 1) 0%, rgba(243, 150, 52, 1) 18%, rgba(255, 46, 251, 1) 50%, rgba(96, 210, 57, 1) 80%, rgba(0, 212, 255, 1) 100%);
+}
+
+/* Main Banner Styles */
+.main-banner{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), url(../images/home-banner-image.jpg);
+    padding-top: 330px;
+    padding-bottom: 260px;
+    background-size: cover;
+}
+
+.main-banner-content{
+    text-align: center;
+    color: white;
+}
+
+.main-banner-content h1{
+    line-height: 1.5em;
+}
+
+.main-banner-content p{
+    font-size: 20px;
+}
+
+/* Contact Form Styles */
+.contact-form, .subscription, .press-partnership{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.contact-form, .press-partnership{
+    text-align: center;
+}
+
+/* Press & Partneship Styles */
+.press-partnership{
+    background-color: #fafafa;
+}
+.press-partnership p a{
+    color: black;
+}
+
+.press-partnership p{
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.press-partnership h4{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.partnership-content, .press-content{
+    padding-top: 20px;
+}
+
+/* Subscritpion Styles */
+.subscription{
+    background-color: #f5f5f5;
+}
+
+.subscription .input-group{
+    padding-top: 35px;
+}
+
+/* Footer Styles */
+.footer {
+    background-color: #212529;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+aside.footer-widget {
+    padding-bottom: 25px;
+}
+
+aside.footer-widget h5 {
+    font-size: 16px;
+}
+
+aside.footer-widget ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+aside.footer-widget ul li a {
+    text-decoration: none;
+    color: #aaaaaa;
+    font-size: 14px;
+    display: inline-flex;
+    margin-bottom: 5px;
+}
+
+address h2 {
+    font-size: 20px;
+}
+
+address p {
+    font-size: 14px;
+}
+
+address p a {
+    font-style: italic;
+    color: teal;
+}
+
+section.copy {
+    background-color: crimson;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+section.copy p{
+    margin: 0px;
+}
